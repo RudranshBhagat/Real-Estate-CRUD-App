@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Visual Studio
+.vs/
+
+# .NET build files
+bin/
+obj/
+
+# Logs
+logs
+*.log
+
+# Environment files
+.env
+
+# Build folders
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# SQL temp files
+SQLQuery1.sql
+
+# VS Code
+.vscode/
